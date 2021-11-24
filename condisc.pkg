@@ -1,0 +1,10 @@
+v 1.0.0
+d 'CONDISC': Convergent and discriminant validity
+d 
+d Stata module to perform convergent and discriminant validity assessment in CFA
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F condisc.ado
+F condisc.sthlp
