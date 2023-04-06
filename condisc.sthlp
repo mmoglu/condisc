@@ -46,7 +46,7 @@ KW: confirmatory
 
 {title:Examples}
 
-{phang}{stata "use http://stats.idre.ucla.edu/stat/stata/output/m255, clear": . use http://www.ats.ucla.edu/stat/stata/output/m255, clear}{p_end}
+{phang}{stata "use http://stats.idre.ucla.edu/stat/stata/output/m255, clear": . use http://stats.idre.ucla.edu/stat/stata/output/m255, clear}{p_end}
 {phang}{stata "keep item13-item27 item42 item52": . keep item13-item27 item42 item52}{p_end}
 
 {phang}{stata "qui sem (Factor1->item13 item14 item15)(Factor2->item22 item23 item24)": . qui sem (Factor1->item13 item14 item15)(Factor2->item22 item23 item24)}{p_end}
